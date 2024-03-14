@@ -4,8 +4,6 @@
 
 •	👀 I’m interested in Web Development, Android Development and Information Security.
 
-•	🌱 I’m currently learning React js.
-
 •	📫 How to reach me [linkedin] - https://www.linkedin.com/in/abhishek-raj-chauhan-747448206/
 
 <!---
