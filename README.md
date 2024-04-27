@@ -1,5 +1,5 @@
 
-                                      A passionate frontend developer - Web design and Android app developer
+                                      A passionate Full Stack developer - Web design and Android app developer
 •	👋 Hi, I’m @Abhishek-Raj-Chauhan
 
 •	👀 I’m interested in Web Development, Android Development and Information Security.
