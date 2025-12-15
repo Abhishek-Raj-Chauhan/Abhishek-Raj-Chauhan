@@ -1,6 +1,5 @@
 
-                                      A passionate Full Stack developer - Web design and Android app developer
-•	Software Developer - AI enthusiast
+                                      Software Developer
 
 •	Linkedin - https://www.linkedin.com/in/abhishek-raj-chauhan-747448206/
 
